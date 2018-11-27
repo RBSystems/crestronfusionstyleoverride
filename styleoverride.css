@@ -1,27 +1,27 @@
 /** COLORS ***/
 .color__theme-color-2 {
-	color: rgba(0, 0, 0, 0.6); }
+	color: rgba(0, 0, 0, 0.1); }
   
   .color__theme-color-3 {
-	color: rgba(0, 0, 0, 0.7); }
+	color: rgba(0, 0, 0, 0.1); }
   
   .color__theme-color-4 {
-	color: rgba(0, 0, 0, 0.8); }
+	color: rgba(0, 0, 0, 0.1); }
   
   .color__theme-color-5 {
 	color: black; }
   
   .color__theme-color-6 {
-	color: rgba(0, 0, 0, 0.4); }
+	color: rgba(0, 0, 0, 0.1); }
   
   .color__theme-color-7 {
-	color: rgba(0, 0, 0, 0.2); }
+	color: rgba(0, 0, 0, 0.1); }
   
   .color__theme-color-8 {
 	color: #e0e0e0; }
   
   .color__theme-color-9 {
-	color: rgba(224, 224, 224, 0.9); }
+	color: rgba(224, 224, 224, 0.1); }
   
   .color__main-color-2 {
 	color: red; }
@@ -36,32 +36,32 @@
 	color: #f15a24; }
   
   .color__main-color-6 {
-	color: rgba(0, 122, 255, 0.6); }
+	color: rgba(0, 122, 255, 0.1); }
   
   /** BACKGROUD ***/
   .bg__theme-color-1 {
 	background-color: #f6f6f6; }
   
   .bg__theme-color-2 {
-	background-color: rgba(224, 224, 224, 0.9); }
+	background-color: rgba(224, 224, 224, 0.1); }
   
   .bg__theme-color-3 {
-	background-color: rgba(246, 246, 246, 0.8); }
+	background-color: rgba(246, 246, 246, 0.1); }
   
   .bg__theme-color-4 {
-	background-color: rgba(246, 246, 246, 0.98); }
+	background-color: rgba(246, 246, 246, 0.1); }
   
   .bg__theme-color-6 {
-	background-color: rgba(246, 246, 246, 0.9); }
+	background-color: rgba(246, 246, 246, 0.1); }
   
   .bg__theme-color-7 {
-	background-color: rgba(246, 246, 246, 0.95); }
+	background-color: rgba(246, 246, 246, 0.1); }
   
   .bg__theme-color-8 {
 	background-color: #cecece; }
   
   .bg__theme-color-9 {
-	background-color: rgba(246, 246, 246, 0.9); }
+	background-color: rgba(246, 246, 246, 0.1); }
   
   .bg__main-color-1 {
 	background-color: rgba(255, 0, 0, 0.1); }
@@ -70,7 +70,7 @@
 	background-color: #4cd964; }
   
   .bg__main-color-4 {
-	background-color: rgba(0, 122, 255, 0.8); }
+	background-color: rgba(0, 122, 255, 0.1); }
   
   .bg__main-color-5 {
 	background-color: #007aff; }
@@ -79,17 +79,17 @@
 	background-color: red; }
   
   .bg__main-color-7 {
-	background-color: rgba(0, 122, 255, 0.9); }
+	background-color: rgba(0, 122, 255, 0.1); }
   
   .bg__main-color-8 {
-	background-color: rgba(255, 0, 0, 0.9); }
+	background-color: rgba(255, 0, 0, 0.1); }
   
   .bg__transparent {
 	background: transparent; }
   
   /** BORDER ***/
   .border__theme-color-1 {
-	border-color: rgba(246, 246, 246, 0.9); }
+	border-color: rgba(246, 246, 246, 0.1); }
   
   .border__theme-color-4 {
 	border-color: rgba(0, 0, 0, 0.2); }
@@ -200,7 +200,7 @@
   /****************** END ROOM ********************/
   /****************** SCREENSAVER ********************/
   .screensaver__container--reserved {
-	border-color: rgba(255, 0, 0, 0.8); }
+	border-color: rgba(255, 0, 0, 0.1); }
   
   .screensaver__container--available {
 	border-color: #4cd964; }
@@ -227,7 +227,7 @@
   /************* END TIME - ROLL ****************/
   /****************** ABOUT MODAL ****************/
   .modal-about::before {
-	background-color: rgba(224, 224, 224, 0.7); }
+	background-color: rgba(224, 224, 224, 0.1); }
   
   /************* END ABOUT MODAL ****************/
   /****************** MENU ITEM ****************/
@@ -260,7 +260,7 @@
   /****************** ROOM ************************/
   .room__container::after {
 	background-color: white;
-	opacity: 0.9; }
+	opacity: 0.1; }
   
   .room__container--available .room__container__status__title__label1,
   .room__container--available .room__container__status__countdown__hours__number,
@@ -283,13 +283,13 @@
 	border: 1px solid red; }
   
   .bg__theme-color-8 {
-	background-color: rgba(206, 206, 206, 0.9); }
+	background-color: rgba(206, 206, 206, 0.1); }
   
   .border__theme-color-1 {
-	border-color: rgba(206, 206, 206, 0.9); }
+	border-color: rgba(206, 206, 206, 0.1); }
   
   .border__theme-color-2 {
-	border-color: rgba(206, 206, 206, 0.9); }
+	border-color: rgba(206, 206, 206, 0.1); }
   
   .room--horizontal .room-details::after {
 	background: url(./assets/images/Top_Pointer_Light.png) no-repeat center top; }

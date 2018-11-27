@@ -211,7 +211,7 @@
 	border-color: rgba(0, 0, 0, 0.2); }
   
   .modal-dialog {
-	background-color: rgba(246, 246, 246, 0.98); }
+	background-color: rgba(246, 246, 246, 0.1); }
   
   .modal-content {
 	background-color: inherit;
@@ -254,7 +254,7 @@
   /****************** SCREENSAVER ********************/
   .screensaver__container::after {
 	background-color: white;
-	opacity: 0.9; }
+	opacity: 0.1; }
   
   /****************** END SCREENSAVER ****************/
   /****************** ROOM ************************/
